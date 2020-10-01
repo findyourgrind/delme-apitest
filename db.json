@@ -14,5 +14,46 @@
       "title":"Q1",
       "text":"QQQ111"
     }
+  ],
+  "careers":[
+    {
+      "id":"career1",
+      "title":"Video Game Designer",
+      "imageUrl":"",
+      "lifestyles": ["ls_analyzer", "ls_innovator", "ls_entertainer"],
+      "minSalary": 60000,
+      "maxSalary": 150000
+      "workplace": "Office",
+      "requiredDegreeType": "Bachelor of Science",
+      "hours":60,
+      "liked": false,
+      "dislike": false
+    },
+        {
+      "id":"career2",
+      "title":"DJ/Radio Personality",
+      "imageUrl":"",
+      "lifestyles": ["ls_connector", "ls_maker", "ls_entertainer"],
+      "minSalary": 40000,
+      "maxSalary": 150000
+      "workplace": "Studio - Travel",
+      "requiredDegreeType": "N/A - Self taught",
+      "hours":60,
+      "liked": true,
+      "dislike": false
+    },
+        {
+      "id":"career3",
+      "title":"Architect",
+      "imageUrl":"",
+      "lifestyles": ["ls_innovator", "ls_maker", "ls_contributor"],
+      "minSalary": 55000,
+      "maxSalary": 170000
+      "workplace": "Studio",
+      "requiredDegreeType":  "Master Of Architecture",
+      "hours":60,
+      "liked": false,
+      "dislike": true
+    }
   ]
 }

@@ -19,7 +19,7 @@
     {
       "id":"career1",
       "title":"Video Game Designer",
-      "imageUrl":"http://picsum.photos/id/1011/1000",
+      "imageUrl":"https://picsum.photos/id/1011/1000",
       "lifestyles": ["ls_analyzer", "ls_innovator", "ls_entertainer"],
       "minSalary": 60000,
       "maxSalary": 150000,
@@ -32,7 +32,7 @@
         {
       "id":"career2",
       "title":"DJ/Radio Personality",
-      "imageUrl":"http://picsum.photos/id/1015/1000",
+      "imageUrl":"https://picsum.photos/id/1015/1000",
       "lifestyles": ["ls_connector", "ls_maker", "ls_entertainer"],
       "minSalary": 40000,
       "maxSalary": 150000,
@@ -45,7 +45,7 @@
         {
       "id":"career3",
       "title":"Architect",
-      "imageUrl":"http://picsum.photos/id/1025/1000",
+      "imageUrl":"https://picsum.photos/id/1025/1000",
       "lifestyles": ["ls_innovator", "ls_maker", "ls_contributor"],
       "minSalary": 55000,
       "maxSalary": 170000,

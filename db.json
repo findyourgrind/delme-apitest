@@ -28,8 +28,8 @@
       "hours":60,
       "liked": false,
       "disliked": false,
-      like:{},
-      dislike:{}
+      "like":{},
+      "dislike":{}
     },
         {
       "id":2,
@@ -42,10 +42,9 @@
       "requiredDegreeType": "N/A - Self taught",
       "hours":60,
       "liked": true,
-      "disliked": false,
-          
-      like:{},
-      dislike:{}
+      "disliked": false,   
+      "like":{},
+      "dislike":{}
     },
         {
       "id":3,
@@ -58,10 +57,9 @@
       "requiredDegreeType":  "Master Of Architecture",
       "hours":60,
       "liked": false,
-      "disliked": true,
-          
-      like:{},
-      dislike:{}
+      "disliked": true, 
+      "like":{},
+      "dislike":{}
     }
   ]
 }

@@ -17,7 +17,7 @@
   ],
   "careers":[
     {
-      "id":1,
+      "id":"career1",
       "title":"Video Game Designer",
       "imageUrl":"https://picsum.photos/id/1011/1000",
       "lifestyles": ["ls_analyzer", "ls_innovator", "ls_entertainer"],
@@ -27,12 +27,10 @@
       "requiredDegreeType": "Bachelor of Science",
       "hours":60,
       "liked": false,
-      "disliked": false,
-      "like":{},
-      "dislike":{}
+      "disliked": false
     },
         {
-      "id":2,
+      "id":"career2",
       "title":"DJ/Radio Personality",
       "imageUrl":"https://picsum.photos/id/1015/1000",
       "lifestyles": ["ls_connector", "ls_maker", "ls_entertainer"],
@@ -42,12 +40,10 @@
       "requiredDegreeType": "N/A - Self taught",
       "hours":60,
       "liked": true,
-      "disliked": false,   
-      "like":{},
-      "dislike":{}
+      "disliked": false
     },
         {
-      "id":3,
+      "id":"career3",
       "title":"Architect",
       "imageUrl":"https://picsum.photos/id/1025/1000",
       "lifestyles": ["ls_innovator", "ls_maker", "ls_contributor"],
@@ -57,9 +53,7 @@
       "requiredDegreeType":  "Master Of Architecture",
       "hours":60,
       "liked": false,
-      "disliked": true, 
-      "like":{},
-      "dislike":{}
+      "disliked": true
     }
   ]
 }

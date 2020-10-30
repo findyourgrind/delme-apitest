@@ -1,18 +1,17 @@
 {
-  "posts": [
+  "activities":[
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "questions":[
-    {
-      "id":1,
-      "title":"Q1",
-      "text":"QQQ111"
+      "id":"mt_johndoe-badge-1-activity-0",
+      "intro":{
+        "imageUrl":"https://picsum.photos/id/1027/1000",
+        "title":"Jane Doe".
+        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
+      },
+      "templates":[]
+      "success":"",
+      "cost": 100,
+      "duration": 500,
+      "star": 1
     }
   ],
   "careers":[

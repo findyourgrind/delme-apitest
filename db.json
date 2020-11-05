@@ -81,6 +81,26 @@
       "cost": 100,
       "duration": 500,
       "star": 1
+    },
+    {
+      "id":"mt_elvis-badge-1-activity-0",
+      "intro":{
+        "imageUrl":"https://picsum.photos/id/1084/1000",
+        "title":"Elvis Presley",
+        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
+      },
+      "templates":[
+        {
+          "$type": "ImageText",
+          "headerImageUrl": "https://picsum.photos/id/145/1000",
+          "title": "Lorem ipsum dolor sit amet orci aliquam.",          
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis lacus id nulla dictum auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas vehicula dapibus ipsum vitae posuere. Suspendisse vestibulum orci risus, in hendrerit arcu tincidunt a. Donec porta est sed metus porta, non ultrices urna laoreet. Pellentesque luctus tellus sit amet massa pretium, in interdum sem laoreet. In sagittis leo et facilisis dictum. Sed odio ex orci aliquam."
+        }
+      ],
+      "success":"",
+      "cost": 100,
+      "duration": 500,
+      "star": 1
     }
   ],
   "careers":[

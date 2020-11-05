@@ -3,8 +3,8 @@
     {
       "id":"mt_johndoe-badge-1-activity-0",
       "intro":{
-        "imageUrl":"https://picsum.photos/id/1027/1000",
-        "title":"Jane Doe",
+        "imageUrl":"https://picsum.photos/id/1063/1000",
+        "title":"John Doe",
         "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
       },
       "templates":[
@@ -35,6 +35,46 @@
             "INTERPERSONAL SKILLS"
           ],
           "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt ante eu aliquet pellentesque. Nunc rhoncus sapien sed nibh vestibulum augue."
+        }
+      ],
+      "success":"",
+      "cost": 100,
+      "duration": 500,
+      "star": 1
+    },
+    {
+      "id":"mt_janedoe-badge-1-activity-0",
+      "intro":{
+        "imageUrl":"https://picsum.photos/id/1062/1000",
+        "title":"Jane Doe",
+        "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
+      },
+      "templates":[
+        {
+          "$type": "ImageTagsText",
+          "headerImageUrl": "https://picsum.photos/id/1080/1000",
+          "title": "Lorem ipsum dolor sit amet orci aliquam.",
+          "tags": [
+            "THIS IS A SPACE FOR 40 CHARACTERS MAX",
+            "THEY WRAP IN SPACE",
+            "LIKE THIS",
+            "STRONG COMMUNICATION SKILLS",
+            "INTERPERSONAL SKILLS"
+          ],
+          "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt ante eu aliquet pellentesque. Nunc rhoncus sapien sed nibh vestibulum augue."
+        },
+        {
+          "$type": "ImageBulletText",
+          "headerImageUrl":"https://picsum.photos/id/1074/1000",
+          "title":"This title has a limit of 40 characters",
+          "bullets":[
+            "And key points",
+            "Lorem ipsum dolor sit gravida.",
+            "Enjoy",
+            "There are 6 bullets max",
+            "They are for strengths"            
+          ],
+          "summary": "This paragraph of text should be no longer than 150 characters including spaces. It can be used to summarize the above bullet points to emphasize."
         }
       ],
       "success":"",

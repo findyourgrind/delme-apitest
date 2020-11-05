@@ -3,14 +3,14 @@
     {
       "id":"mt_johndoe-badge-1-activity-0",
       "intro":{
-        "imageUrl":"https://picsum.photos/id/1063/1000",
+        "imageURL":"https://picsum.photos/id/1063/1000",
         "title":"John Doe",
         "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
       },
       "templates":[
         {
-          "$type": "ImageBulletText",
-          "headerImageUrl":"https://picsum.photos/id/1043/1000",
+          "type": "ImageBulletText",
+          "imageURL":"https://picsum.photos/id/1043/1000",
           "title":"This title has a limit of 40 characters",
           "bullets":[
             "Bullets have 30 character",
@@ -23,8 +23,8 @@
           "summary": "This paragraph of text should be no longer than 150 characters including spaces. It can be used to summarize the above bullet points to emphasize."
         },
         {
-          "$type": "ImageTagsText",
-          "headerImageUrl": "https://picsum.photos/id/1040/1000",
+          "type": "ImageTagsText",
+          "imageURL": "https://picsum.photos/id/1040/1000",
           "title": "Lorem ipsum dolor sit amet orci aliquam.",
           "tags": [
             "THIS IS A SPACE FOR 40 CHARACTERS MAX",
@@ -45,14 +45,14 @@
     {
       "id":"mt_janedoe-badge-1-activity-0",
       "intro":{
-        "imageUrl":"https://picsum.photos/id/1062/1000",
+        "imageURL":"https://picsum.photos/id/1062/1000",
         "title":"Jane Doe",
         "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
       },
       "templates":[
         {
-          "$type": "ImageTagsText",
-          "headerImageUrl": "https://picsum.photos/id/1080/1000",
+          "type": "ImageTagsText",
+          "imageURL": "https://picsum.photos/id/1080/1000",
           "title": "Lorem ipsum dolor sit amet orci aliquam.",
           "tags": [
             "THIS IS A SPACE FOR 40 CHARACTERS MAX",
@@ -64,8 +64,8 @@
           "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt ante eu aliquet pellentesque. Nunc rhoncus sapien sed nibh vestibulum augue."
         },
         {
-          "$type": "ImageBulletText",
-          "headerImageUrl":"https://picsum.photos/id/1074/1000",
+          "type": "ImageBulletText",
+          "imageURL":"https://picsum.photos/id/1074/1000",
           "title":"This title has a limit of 40 characters",
           "bullets":[
             "And key points",
@@ -85,14 +85,14 @@
     {
       "id":"mt_elvis-badge-1-activity-0",
       "intro":{
-        "imageUrl":"https://picsum.photos/id/1084/1000",
+        "imageURL":"https://picsum.photos/id/1084/1000",
         "title":"Elvis Presley",
         "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
       },
       "templates":[
         {
-          "$type": "ImageText",
-          "headerImageUrl": "https://picsum.photos/id/145/1000",
+          "type": "ImageText",
+          "imageURL": "https://picsum.photos/id/145/1000",
           "title": "Lorem ipsum dolor sit amet orci aliquam.",          
           "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis lacus id nulla dictum auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas vehicula dapibus ipsum vitae posuere. Suspendisse vestibulum orci risus, in hendrerit arcu tincidunt a. Donec porta est sed metus porta, non ultrices urna laoreet. Pellentesque luctus tellus sit amet massa pretium, in interdum sem laoreet. In sagittis leo et facilisis dictum. Sed odio ex orci aliquam."
         }
@@ -107,7 +107,7 @@
     {
       "id":"career1",
       "title":"Video Game Designer",
-      "imageUrl":"https://picsum.photos/id/1011/1000",
+      "imageURL":"https://picsum.photos/id/1011/1000",
       "lifestyles": ["ls_analyzer", "ls_innovator", "ls_entertainer"],
       "minSalary": 60000,
       "maxSalary": 150000,
@@ -120,7 +120,7 @@
         {
       "id":"career2",
       "title":"DJ/Radio Personality",
-      "imageUrl":"https://picsum.photos/id/1015/1000",
+      "imageURL":"https://picsum.photos/id/1015/1000",
       "lifestyles": ["ls_connector", "ls_maker", "ls_entertainer"],
       "minSalary": 40000,
       "maxSalary": 150000,
@@ -133,7 +133,7 @@
         {
       "id":"career3",
       "title":"Architect",
-      "imageUrl":"https://picsum.photos/id/1025/1000",
+      "imageURL":"https://picsum.photos/id/1025/1000",
       "lifestyles": ["ls_innovator", "ls_maker", "ls_contributor"],
       "minSalary": 55000,
       "maxSalary": 170000,

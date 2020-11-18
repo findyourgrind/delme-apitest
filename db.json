@@ -13,58 +13,6 @@
             {
                 "key": "ls_connector",
                 "percent": 0.7
-            },
-            {
-                "key": "ls_contributor",
-                "percent": 0.6
-            },
-            {
-                "key": "ls_creator",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_educator",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_entertainer",
-                "percent": 0.3
-            },
-            {
-                "key": "ls_entrepreneur",
-                "percent": 0.3
-            },
-            {
-                "key": "ls_explorer",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_healer",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_humanitarian",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_innovator",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_leader",
-                "percent": 0.6
-            },
-            {
-                "key": "ls_maker",
-                "percent": 0.4
-            },
-            {
-                "key": "ls_organizer",
-                "percent": 0.5
-            },
-            {
-                "key": "ls_thrill_seeker",
-                "percent": 0.4
             }
         ],
     "credits": 0,

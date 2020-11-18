@@ -19,8 +19,9 @@
     "userlevel":1,
     "current_number_of_activities": 2,
     "current_required_activities": 6,    
-    "total_completed_badges":5,
-    "next_activities":[
+    "total_completed_badges":5    
+  },
+  "next_curriculum_activities":[
       {
         "iconURL":"https://picsum.photos/id/1015/200",
         "name": "Curriculum Badge 1",
@@ -69,8 +70,7 @@
         "locked": true,
         "id": "category-2"
       }
-    ]
-  },
+    ],
   "activities":[
     {
       "id":"mt_johndoe-badge-1-activity-0",

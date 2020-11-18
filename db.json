@@ -1,4 +1,27 @@
 {
+  "userdetails":{
+    "username": "John Doe",
+    "lifestyle_assessment_results":"",
+    "credits": 0,
+    "userlevel":1,
+    "total_completed_badges":5,
+    "categories":[
+      {
+        "name": "Self Awareness",
+        "compeleted": 2,
+        "total_activities": 52,
+        "locked": false,
+        "id": "category-1"
+      },
+      {
+        "name": "Foundation",
+        "compeleted": 0,
+        "total_activities": 10,
+        "locked": true,
+        "id": "category-2"
+      }
+    ]
+  },
   "activities":[
     {
       "id":"mt_johndoe-badge-1-activity-0",

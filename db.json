@@ -1,7 +1,7 @@
 {
   "userdetails":{
     "username": "John Doe",
-    "lifestyle_assessment_results":[
+    "lifestyleAssessmentResults":[
             {
                 "key": "ls_analyzer",
                 "percent": 0.7
@@ -17,24 +17,24 @@
         ],
     "credits": 0,
     "userlevel":1,
-    "current_number_of_activities": 2,
-    "current_required_activities": 6,    
-    "total_completed_badges":5    
+    "currentNumberOfActivities": 2,
+    "currentRequiredActivities": 6,    
+    "totalCompletedBadges":5    
   },
-  "next_curriculum_activities":[
+  "nextCurriculumActivities":[
       {
         "iconURL":"https://picsum.photos/id/1015/200",
         "name": "Curriculum Badge 1",
         "stars": 1,
-        "total_stars": 3,
+        "totalStars": 3,
         "activityId": "activity-1-curr-1",
         "badgeId": "badge-curr-1"
       },      
       {
         "iconURL":"https://picsum.photos/id/1016/200",
         "name": "Curriculum Badge 2",
-        "star": 0,
-        "total_stars": 2,
+        "stars": 0,
+        "totalStars": 2,
         "activityId": "activity-0-curr-2",
         "badgeId": "badge-curr-2"
       },      
@@ -42,7 +42,7 @@
         "iconURL":"https://picsum.photos/id/1018/200",
         "name": "Curriculum Badge 3",
         "star": 0,
-        "total_stars": 3,
+        "totalStars": 3,
         "activityId": "activity-0-curr-3",
         "badgeId": "badge-curr-3"
       },      
@@ -50,7 +50,7 @@
         "iconURL":"https://picsum.photos/id/1018/200",
         "name": "Curriculum Badge 4",
         "star": 2,
-        "total_stars": 4,
+        "totalStars": 4,
         "activityId": "activity-3-curr-4",
         "badgeId": "badge-curr-4"
       }
@@ -59,14 +59,14 @@
       {
         "name": "Self Awareness",
         "compeleted": 2,
-        "total_activities": 52,
+        "totalActivities": 52,
         "locked": false,
         "id": "category-1"
       },
       {
         "name": "Foundation",
         "compeleted": 0,
-        "total_activities": 10,
+        "totalActivities": 10,
         "locked": true,
         "id": "category-2"
       }

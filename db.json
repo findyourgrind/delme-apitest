@@ -1,10 +1,111 @@
 {
   "userdetails":{
     "username": "John Doe",
-    "lifestyle_assessment_results":"",
+    "lifestyle_assessment_results":[
+            {
+                "key": "ls_analyzer",
+                "percent": 0.7
+            },
+            {
+                "key": "ls_competitor",
+                "percent": 0.4
+            },
+            {
+                "key": "ls_connector",
+                "percent": 0.7
+            },
+            {
+                "key": "ls_contributor",
+                "percent": 0.6
+            },
+            {
+                "key": "ls_creator",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_educator",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_entertainer",
+                "percent": 0.3
+            },
+            {
+                "key": "ls_entrepreneur",
+                "percent": 0.3
+            },
+            {
+                "key": "ls_explorer",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_healer",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_humanitarian",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_innovator",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_leader",
+                "percent": 0.6
+            },
+            {
+                "key": "ls_maker",
+                "percent": 0.4
+            },
+            {
+                "key": "ls_organizer",
+                "percent": 0.5
+            },
+            {
+                "key": "ls_thrill_seeker",
+                "percent": 0.4
+            }
+        ],
     "credits": 0,
     "userlevel":1,
+    "current_number_of_activities": 2,
+    "current_required_activities": 6,    
     "total_completed_badges":5,
+    "next_activities":[
+      {
+        "iconURL":"https://picsum.photos/id/1015/200",
+        "name": "Curriculum Badge 1",
+        "stars": 1,
+        "total_stars": 3,
+        "activityId": "activity-1-curr-1",
+        "badgeId": "badge-curr-1"
+      },      
+      {
+        "iconURL":"https://picsum.photos/id/1016/200",
+        "name": "Curriculum Badge 2",
+        "star": 0,
+        "total_stars": 2,
+        "activityId": "activity-0-curr-2",
+        "badgeId": "badge-curr-2"
+      },      
+      {
+        "iconURL":"https://picsum.photos/id/1018/200",
+        "name": "Curriculum Badge 3",
+        "star": 0,
+        "total_stars": 3,
+        "activityId": "activity-0-curr-3",
+        "badgeId": "badge-curr-3"
+      },      
+      {
+        "iconURL":"https://picsum.photos/id/1018/200",
+        "name": "Curriculum Badge 4",
+        "star": 2,
+        "total_stars": 4,
+        "activityId": "activity-3-curr-4",
+        "badgeId": "badge-curr-4"
+      }
+    ],
     "categories":[
       {
         "name": "Self Awareness",

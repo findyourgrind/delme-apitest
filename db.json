@@ -253,32 +253,6 @@
       "hours":60,
       "liked": false,
       "disliked": false
-    },
-        {
-      "id":"career2",
-      "title":"DJ/Radio Personality",
-      "imageURL":"https://picsum.photos/id/1015/1000",
-      "lifestyles": ["ls_connector", "ls_maker", "ls_entertainer"],
-      "minSalary": 40000,
-      "maxSalary": 150000,
-      "workplace": "Studio - Travel",
-      "requiredDegreeType": "N/A - Self taught",
-      "hours":60,
-      "liked": true,
-      "disliked": false
-    },
-        {
-      "id":"career3",
-      "title":"Architect",
-      "imageURL":"https://picsum.photos/id/1025/1000",
-      "lifestyles": ["ls_innovator", "ls_maker", "ls_contributor"],
-      "minSalary": 55000,
-      "maxSalary": 170000,
-      "workplace": "Studio",
-      "requiredDegreeType":  "Master Of Architecture",
-      "hours":60,
-      "liked": false,
-      "disliked": true
     }
   ]
 }

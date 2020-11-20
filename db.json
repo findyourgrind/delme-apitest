@@ -107,6 +107,37 @@
             "INTERPERSONAL SKILLS"
           ],
           "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt ante eu aliquet pellentesque. Nunc rhoncus sapien sed nibh vestibulum augue."
+        },
+        {
+            "type": "Roadmap",
+            "title": "This title has a limit of 40 characters",
+            "events": [
+                {
+                    "when": "1998",
+                    "iconURL": "https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                    "description": "'The Matrix' came out in theatres, and the first 30 minutes of it went down in history as the some of the greatest in film history. Downhill from there."
+                },
+                {
+                    "when": "2001",
+                    "iconURL": "https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                    "description": "The film 'Rat Race' was a lighthearted romp that included commentary on consumer culture and how there is no such thing as altruism."
+                },
+                {
+                    "when": "2001",
+                    "iconURL": "https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                    "description": "'Shrek' also came out I am pretty sure.'"
+                },
+                {
+                    "when": "2003",
+                    "iconURL": "https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                    "description": "'The Matrix: Reloaded' came out, letting down tons of fans by devolving into a formulaic blockbuster with a pretty lame religious allegory."
+                },
+                {
+                    "when": "2003",
+                    "iconURL": "https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                    "description": "'The Matrix: Revolutions' came out a few months later, which is very odd. It was the worst of the trilogy."
+                }
+            ]
         }
       ],
       "badgeURL": "https://i.ibb.co/FH5jQnh/Group-3486-3x.png",

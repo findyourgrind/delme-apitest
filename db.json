@@ -240,19 +240,5 @@
       "star": 1
     }
   ],
-  "careers":[
-    {
-      "id":"career1",
-      "title":"Video Game Designer",
-      "imageURL":"https://picsum.photos/id/1011/1000",
-      "lifestyles": ["ls_analyzer", "ls_innovator", "ls_entertainer"],
-      "minSalary": 60000,
-      "maxSalary": 150000,
-      "workplace": "Office",
-      "requiredDegreeType": "Bachelor of Science",
-      "hours":60,
-      "liked": false,
-      "disliked": false
-    }
-  ]
+  "careers":[]
 }

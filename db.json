@@ -23,36 +23,84 @@
    },
    "nextCurriculumActivities":[
       {
-         "iconURL":"https://picsum.photos/id/1015/200",
-         "name":"Curriculum Badge 1",
-         "stars":1,
-         "totalStars":3,
-         "activityId":"activity-1-curr-1",
-         "badgeId":"badge-curr-1"
-      },
-      {
-         "iconURL":"https://picsum.photos/id/1016/200",
-         "name":"Curriculum Badge 2",
-         "stars":0,
-         "totalStars":2,
-         "activityId":"activity-0-curr-2",
-         "badgeId":"badge-curr-2"
-      },
-      {
-         "iconURL":"https://picsum.photos/id/1018/200",
-         "name":"Curriculum Badge 3",
-         "star":0,
-         "totalStars":3,
-         "activityId":"activity-0-curr-3",
-         "badgeId":"badge-curr-3"
-      },
-      {
-         "iconURL":"https://picsum.photos/id/1018/200",
-         "name":"Curriculum Badge 4",
-         "star":2,
-         "totalStars":4,
-         "activityId":"activity-3-curr-4",
-         "badgeId":"badge-curr-4"
+         "id":"mt_johndoe-badge-1-activity-0",
+         "intro":{
+            "imageURL":"https://picsum.photos/id/1063/1000",
+            "title":"John Doe",
+            "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum dui est, eu mollis orci."
+         },
+         "templates":[
+            {
+               "type":"ImageBulletText",
+               "imageURL":"https://picsum.photos/id/1043/1000",
+               "title":"This title has a limit of 40 characters",
+               "bullets":[
+                  "Bullets have 30 character",
+                  "There are 6 bullets max",
+                  "They are for strengths",
+                  "And key points",
+                  "Lorem ipsum dolor sit gravida.",
+                  "Enjoy"
+               ],
+               "summary":"This paragraph of text should be no longer than 150 characters including spaces. It can be used to summarize the above bullet points to emphasize."
+            },
+            {
+               "type":"ImageTagsText",
+               "imageURL":"https://picsum.photos/id/1040/1000",
+               "title":"Lorem ipsum dolor sit amet orci aliquam.",
+               "tags":[
+                  "THIS IS A SPACE FOR 40 CHARACTERS MAX",
+                  "THERE IS A LIMIT OF 6 TAGS",
+                  "THEY WRAP IN SPACE",
+                  "LIKE THIS",
+                  "STRONG COMMUNICATION SKILLS",
+                  "INTERPERSONAL SKILLS"
+               ],
+               "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt ante eu aliquet pellentesque. Nunc rhoncus sapien sed nibh vestibulum augue."
+            },
+            {
+               "type":"Roadmap",
+               "title":"This title has a limit of 40 characters",
+               "id":"something",
+               "moments":[
+                  {
+                     "date":"1999",
+                     "iconUrl":"https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                     "description":"'The Matrix' came out in theatres, and the first 30 minutes of it went down in history as the some of the greatest in action sci-fi film history. Downhill from there."
+                  },
+                  {
+                     "date":"2001",
+                     "iconUrl":"https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                     "description":"The film 'Rat Race' was a lighthearted romp that included commentary on consumer culture and how there is no such thing as altruism."
+                  },
+                  {
+                     "date":"2001",
+                     "iconUrl":"https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                     "description":"'Shrek' also came out I am pretty sure.'"
+                  },
+                  {
+                     "date":"2003",
+                     "iconUrl":"https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                     "description":"'The Matrix: Reloaded' came out, letting down tons of fans by devolving into a formulaic blockbuster with a pretty lame religious allegory."
+                  },
+                  {
+                     "date":"2003",
+                     "iconUrl":"https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                     "description":"'The Matrix: Revolutions' came out a few months later, which is very odd. It was the worst of the trilogy."
+                  },
+                  {
+                     "date":"Now",
+                     "iconUrl":"https://images.vexels.com/media/users/3/140908/isolated/preview/bdc30bbe3c022a11e2d7fd0e642c61ae-open-book-icon-by-vexels.png",
+                     "description":"Chillin."
+                  }
+               ]
+            }
+         ],
+         "badgeURL":"https://i.ibb.co/FH5jQnh/Group-3486-3x.png",
+         "success":"",
+         "cost":100,
+         "duration":500,
+         "star":1
       }
    ],
    "categories":[
